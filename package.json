@@ -1,6 +1,6 @@
 {
   "name": "read-dir-names",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns an array of the names of all directories within another directory",
   "main": "./dest/index.js",
   "scripts": {
