@@ -9,13 +9,13 @@
 ## Installation
 
 ```sh
-$ npm i read-folder-names
+$ npm i read-dir-names
 ```
 
 or
 
 ```sh
-$ yarn add read-folder-names
+$ yarn add read-dir-names
 ```
 
 ## Usage
